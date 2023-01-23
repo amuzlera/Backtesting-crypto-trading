@@ -19,7 +19,7 @@ It was developed entirely in Python and its data management libraries (Pandas, N
 
 Work done in collaboration, by:
 - Leandro Marquez (lnmarquez19@gmail.com)
-- Andres Muzlera (amuzlera@gmail.com)
+- Andres Muzlera (andres.muzlera@gmail.com)
 
 
 ## BUILDING OF THE PLATFORM
@@ -95,5 +95,4 @@ It allows running a series of simulations simultaneously, being able to choose:
 
 ## BACKTESTING PLATFORM 2.0
 
-We developed an new version of this platform, which does the same but 10, 20, 50 or 100 times faster, using Numpy instead of a loop. Not a job we can share, but we leave you the some ideas.
-
+We created a new version of this platform that performs the same tasks but is 10, 20, 50, or even 100 times faster. We achieved this by using Numpy instead of loops. Unfortunately, we cannot share the specific job with you, but we can provide some ideas for inspiration.
